@@ -1,0 +1,5 @@
+Criação de repositórios: criar repositórios, armazenar e atualizar projetos de forma segura e em apenas um local, públicos ou privados.
+Ambiente colaborativo: outros usuários podem contribuir em seus projetos, sugerindo features, edições ou correção de bugs.
+Portfólio: É possível realizar contribuições, corrigir bugs, fazer sugestões.
+Rapidez: como os processos são operados localmente, deixa de ser preciso contactar o servidor central para proceder a operações como um commit, log ou diff.
+Facilidade na Fusão: os DVCS usam o rastreamento automático, o que facilita de forma significativa o processo de fusão.
